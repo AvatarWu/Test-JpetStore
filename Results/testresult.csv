@@ -1,0 +1,4 @@
+1732260024380,397,HTTP Request1,200,OK,Thread Group 1-1,text,true,,4757,120,1,1,https://www.blazedemo.com/,391,0,108
+1732260024783,354,HTTP Request2,200,OK,Thread Group 1-1,text,true,,4757,120,1,1,https://www.blazedemo.com/,352,0,0
+1732260025138,288,HTTP Request3,200,OK,Thread Group 1-1,text,true,,4757,120,1,1,https://www.blazedemo.com/,283,0,0
+1732260025427,324,HTTP Request4,200,OK,Thread Group 1-1,text,true,,4757,120,1,1,https://www.blazedemo.com/,322,0,0
